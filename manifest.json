@@ -1,0 +1,10 @@
+{
+  "name": "DARTS HQ",
+  "short_name": "DARTS HQ",
+  "description": "Darts scoring, statistics and practice.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10151d",
+  "theme_color": "#10151d"
+}
